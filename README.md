@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello hello 
+
+- CUHK CSE student
+- Interested in learning AI/ML and networking
+- No current projects (maybe in the summer when not bombarded with other responsibilities)
+- like game
 
 <!--
 **hamspncr/hamspncr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
