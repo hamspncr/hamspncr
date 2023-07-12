@@ -2,7 +2,7 @@
 
 - CUHK CSE student
 - Interested in learning AI/ML and networking
-- No current projects (maybe in the summer when not bombarded with other responsibilities)
+- No current projects
 - like game
 
 <!--
