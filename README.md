@@ -1,8 +1,6 @@
 ### Hello hello 
 
 - CUHK CSE student
-- Interested in shader programming, AI/ML, and computer networking
-- No ongoing projects
 
 <!--
 **hamspncr/hamspncr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
