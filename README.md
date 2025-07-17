@@ -1,6 +1,6 @@
 ### Hello hello 
 
-- CUHK CSE student
+- CUHK CSE alum
 
 <!--
 **hamspncr/hamspncr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
